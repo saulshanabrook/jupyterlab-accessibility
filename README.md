@@ -2,9 +2,9 @@
 
 We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the JupyterLab community is doing to make it more accessible for users with disabilities.
 
-## 👶 Started from the bottom
+## 🎵 Started from the bottom
 
-### 🤓 What is software vs hardware?
+### 👶 What is software vs hardware?
 * Software is a collection of instructions for the computer. 
 * Hardware is the physical components like a computer mouse or the CPU (central processing unit) which is the electronic circuitry that executes the instructions.
 
