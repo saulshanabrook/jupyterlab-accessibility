@@ -11,7 +11,7 @@ This is a github repository (not suppository)!💩 Repository or "repo" as they 
 * Open source software is public, collaborative, free code anyone can use.
 
 ### ✨ What is Jupyter?
-* Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically but groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
+* Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically by groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
 
 ### 📚 What are Jupyter Notebooks?
 * Jupyter Notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
