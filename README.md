@@ -5,19 +5,22 @@ Welcome! We aim to support each other in having fun and learning code through an
 This is a github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches. 
 
 What is open source software? 
-* Jupyter is a software which is collection of instructions for the computer, unlike hardware such as a computer mouse..
-* Jupyter is open source software - public, collaborative, free code anyone can use.
+* Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
+* Open source software is public, collaborative, free code anyone can use.
 
 What is Jupyter?
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically but groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
 
 What is Jupyter Notebooks?
-* Jupyter notallows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
+* Jupyter noteboooks allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
 * Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results.
 * Jupyter notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
 
 What is Jupyter Lab?
-Jupyter lab is the piece we'll be plugging into. It's software that lets you edit Jupyter notebooks in your browser on a website.
+Jupyter lab is behind the scenes of Jupyter notebooks. Jupyter lab is software that lets you edit how Jupyter notebooks works right in your browser on a website.
+
+So what are we doing?
+We will be 
 
 This is a place to help people learn how to code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. WCAG 
 
