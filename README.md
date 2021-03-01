@@ -20,6 +20,7 @@ What is Jupyter Notebooks?
 
 What is JupyterLab?
 * JupyterLab is for writing Jupyter Notebooks. JupyterLab is a software that lets you edit Jupyter Notebooks right in your browser on a website. So, Jupyter Notebooks is like images while JupyterLab is like photoshop.
+* JupyterLab is mostly written in JavaScript and some python but not everyone who works on it is a programmer. There are many ways to contribute that don't involve writing code such as design, giving feedback, project management, engaging with the community, and running events. 
 
 ## JupyterLab Accessibility 
 
