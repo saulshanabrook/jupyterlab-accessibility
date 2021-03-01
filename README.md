@@ -1,18 +1,21 @@
 # 🌱 Welcome
 
-We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities.
+We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the JupyterLab community is doing to make it more accessible for users with disabilities.
 
 ## 🤓 Basics
 
-### 💻 What is coding?
+### 👀 What is coding?
 * Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
 * People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑  
+* languages and binary 
 
-### 👀 What is a Github Repository?
+### 🌳 What is Github?
 * GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. 
-* GitHub is built on Git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches.🌳 
+* GitHub is built on Git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches.
+
+### 🗄 What is a GitHub Repository?
 * This group is a GitHub Repository (not suppository)!💩 Repository or "repo" as they say in the biz is a collection of files and discussions. 
-* You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion!
+* You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion! This is the main [JupyterLab](https://github.com/jupyterlab/jupyterlab) repository, but you don't need to subscribe since it's a lot. 
 
 ### 💕 What is open source software?
 * Open source software is public, collaborative, free code anyone can use. 
@@ -20,7 +23,7 @@ We aim to support each other in having fun and learning to code through an appli
 
 ## 🚀 Project Jupyter 
 
-### ✨ What is Jupyter?
+### ☂️ What is Jupyter?
 * [Jupyter](https://jupyter.org/) is a non-profit open source software for data analysis that is worked on in the open on GitHub.
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically by groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
 * It is also refered to as Project Jupyter, which is an umbrella for Jupyter Notebooks, JupyterLab, JupyterHub (we'll define these later).
@@ -36,7 +39,7 @@ We aim to support each other in having fun and learning to code through an appli
 
 ## 🔥 JupyterLab Accessibility
 
-### 🔥 What is accessibility? 
+### What is accessibility? 
 * Accessibility is about designing for users with diverse needs. This includes visual (low vision, blindness, or color blindness), deaf/hard of hearing, physical, motor and general disabilities. Recommendations are based on the Web Content Accessibility Guidelines, or WCAG.  Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/). ♿️
 * We also care about lowering the barrier to entry to become involved in open source, so that these important projects can better represent the diversity of our world.
 
