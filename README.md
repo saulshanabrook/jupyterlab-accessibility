@@ -1,20 +1,22 @@
 # JupyterLab Accessibility
 
-We aim to support each other in applied learning working on real projects to make Jupyter lab better. 
+Welcome! We aim to support each other in ~having fun~ and learning code through an applied project. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).  
 
-Welcome to this Github repository (not suppository) ! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).  
+This is a github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches. 
 
-What is Jupyter? 
+What is open source software? 
 * Jupyter is a software which is collection of instructions for the computer, unlike hardware such as a computer mouse..
 * Jupyter is open source software - public, collaborative, free code anyone can use.
+What is Jupyter?
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically but groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
-* Jupyter is used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
-* Jupyter allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
+What is Jupyter Notebooks?
+* Jupyter notallows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
 * Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results.
-* Jupyter lab refers to 
+* Jupyter notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
+What is Jupyter Lab?
+Jupyter lab is the piece we'll be plugging into. It's software that lets you edit Jupyter notebooks in your browser on a website.
 
-
-This is a place to help people learn how to code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities, including:
+This is a place to help people learn how to code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. WCAG 
 
 
 ## Schedule
