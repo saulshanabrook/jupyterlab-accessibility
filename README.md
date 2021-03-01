@@ -1,8 +1,10 @@
-# JupyterLab Accessibility
+# Welcome
 
-Welcome! We aim to support each other in having fun and learning code through an applied project. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).  
+We aim to support each other in having fun and learning code through an applied project. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).  
 
 This is a github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches. 
+
+## Basics 
 
 What is open source software? 
 * Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
@@ -18,6 +20,8 @@ What is Jupyter Notebooks?
 
 What is JupyterLab?
 * JupyterLab is for writing Jupyter Notebooks. JupyterLab is a software that lets you edit Jupyter Notebooks right in your browser on a website. So, Jupyter Notebooks is like images while JupyterLab is like photoshop.
+
+## JupyterLab Accessibility 
 
 Where do we come in?
 * We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. JupterLab hosts biweekly developer meetings to work on accessibility, and on the off week there is a beginner-friendly meeting, and we're welcome to attend both. Additionally, we will plan our own internal meetings to support each other. 
