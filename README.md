@@ -2,15 +2,17 @@
 
 We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the JupyterLab community is doing to make it more accessible for users with disabilities.
 
-## 🤓 Started from the bottom
+## 👶 Started from the bottom
 
 ### 0️⃣1️⃣ What is coding?
-* Coding is writing software which is a collection of instructions for the computer. 
+* Coding is writing software, which is a collection of instructions for the computer. 
 * Hardware is the physical components like a computer mouse or the CPU (central processing unit) which is the electronic circuitry that executes the instructions.
 
-### What is a programming language?
+### 👄 What is a programming language?
 * These instructions can be written in many different "languages." Computer hardware itself, like your CPU, understands only very simple instructions, like adding numbers, and saving and loading information. To make it easier to talk to your computer, people have invented languages, which let you write a "higher level", i.e. more natural sounding description of what you want the computer to do. The language software turns that into the basic instructions that the computer hardware can understand.
 * People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑  
+
+## 💕 Collab
 
 ### 🌳 What is Github?
 * GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. 
@@ -20,7 +22,7 @@ We aim to support each other in having fun and learning to code through an appli
 * This group is a GitHub Repository (not suppository)!💩 Repository or "repo" as they say in the biz is a collection of files and discussions. 
 * You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion! This is the main [JupyterLab](https://github.com/jupyterlab/jupyterlab) repository, but you don't need to subscribe since it's a lot. 
 
-### 💕 What is open source software?
+### 🌎 What is open source software?
 * Open source software is public, collaborative, free code anyone can use. 
 * Individuals work on code contributions "locally" on their own computers and can use platforms like Github to collaborate. Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worked on in the open on Github.
 
@@ -46,7 +48,7 @@ We aim to support each other in having fun and learning to code through an appli
 * Accessibility is about designing for users with diverse needs. This includes visual (low vision, blindness, or color blindness), deaf/hard of hearing, physical, motor and general disabilities. Recommendations are based on the Web Content Accessibility Guidelines, or WCAG.  Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/). ♿️
 * We also care about lowering the barrier to entry to become involved in open source, so that these important projects can better represent the diversity of our world.
 
-## 🌎 Meetings
+## 😎 Meetings
 
 JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST, alternating between JupyterLab Accessibility Quickstart (for newcomers!) and an all community meeting for everyone. Additionally, we will plan our own internal meetings to support each other. 
 
