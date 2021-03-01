@@ -5,7 +5,10 @@ We aim to support each other in having fun and learning to code through an appli
 ## 🤓 Started from the bottom
 
 ### 0️⃣1️⃣ What is coding?
-* Coding is writing software which is a collection of instructions for the computer. Hardware is the physical components like a computer mouse or the CPU (central processing unit) which is the electronic circuitry that executes the instructions.
+* Coding is writing software which is a collection of instructions for the computer. 
+* Hardware is the physical components like a computer mouse or the CPU (central processing unit) which is the electronic circuitry that executes the instructions.
+
+### What is a programming language?
 * These instructions can be written in many different "languages." Computer hardware itself, like your CPU, understands only very simple instructions, like adding numbers, and saving and loading information. To make it easier to talk to your computer, people have invented languages, which let you write a "higher level", i.e. more natural sounding description of what you want the computer to do. The language software turns that into the basic instructions that the computer hardware can understand.
 * People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑  
 
