@@ -1,6 +1,6 @@
 # JupyterLab Accessibility
 
-Little repo for discussion and notes around getting starting in open source coding through participating in the JuptyerLab accessibility work.
+This is a place to help a group of people learn how to code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with dissabilities.
 
 ## Important Links
 
