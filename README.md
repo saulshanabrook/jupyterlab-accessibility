@@ -27,7 +27,7 @@ Where do we come in?
 * We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. JupterLab hosts biweekly developer meetings to work on accessibility, and on the off week there is a beginner-friendly meeting, and we're welcome to attend both. Additionally, we will plan our own internal meetings to support each other. 
 
 What is accessibility?
-This is based on the Web Content Accessibility Guidelines, or WCAG. This includes visual impairment like low vision, blindness, or color blindness, or deaf/hard of hearing. Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/).
+* This is based on the Web Content Accessibility Guidelines, or WCAG. This includes visual impairment like low vision, blindness, or color blindness, or deaf/hard of hearing. Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/).
 
 ## Schedule
 
