@@ -1,6 +1,6 @@
 # JupyterLab Accessibility
 
-Welcome to this Github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes, althouh it's easier to track and make changes than normal editing on someting like google doc. Everyone can independently work on their own copy of the code, but you can merge the changes together from different branches.  
+Welcome to this Github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, but you can merge the changes together from different branches.  
 
 We aim to support each other in applied learning working on real projects to make Jupyter lab better. What is Jupyter? 
 * Jupyter is software 
