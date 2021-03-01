@@ -1,8 +1,12 @@
 # 🌱 Welcome
 
-We aim to support each other in having fun and learning code through an applied project. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑 Many of us  
+We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities.
 
-## 🤓 Basic Qs
+## 🤓 Basics
+
+### 💻 What is coding?
+* Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
+* People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑  
 
 ### 👀 What is a Github Repository?
 * GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. 
@@ -11,13 +15,15 @@ We aim to support each other in having fun and learning code through an applied 
 * You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion!
 
 ### 💕 What is open source software?
-* Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
-* Open source software is public, collaborative, free code anyone can use. Individuals work on code contributions "locally" on their own computers and use Github to collaborate. Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worken on in the open on Github.
+* Open source software is public, collaborative, free code anyone can use. 
+* Individuals work on code contributions "locally" on their own computers and can use platforms like Github to collaborate. Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worked on in the open on Github.
+
+## 🚀 Project Jupyter 
 
 ### ✨ What is Jupyter?
-* Jupyter is a non-profit open source software for data analysis that is worked on in the open on GitHub.
-* It is also refered to as Project Jupyter, which is an umbrella for Jupyter Notebooks, JupyterLab, JupyterHub.
+* [Jupyter](https://jupyter.org/) is a non-profit open source software for data analysis that is worked on in the open on GitHub.
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically by groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
+* It is also refered to as Project Jupyter, which is an umbrella for Jupyter Notebooks, JupyterLab, JupyterHub (we'll define these later).
 
 ### 📚 What are Jupyter Notebooks?
 * Jupyter Notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
@@ -28,10 +34,7 @@ We aim to support each other in having fun and learning code through an applied 
 * JupyterLab is for writing Jupyter Notebooks. JupyterLab is a software that lets you edit Jupyter Notebooks right in your browser on a website. So, Jupyter Notebooks is like images while JupyterLab is like photoshop.
 * JupyterLab is mostly written in JavaScript and some python but not everyone who works on it is a programmer. There are many ways to contribute that don't involve writing code such as design, giving feedback, project management, engaging with the community, and running events. 
 
-## 🚀 JupyterLab Accessibility
-
-### 🤔 Where do we come in?
-* We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities.
+## 🔥 JupyterLab Accessibility
 
 ### 🔥 What is accessibility? 
 * Accessibility is about designing for users with diverse needs. This includes visual (low vision, blindness, or color blindness), deaf/hard of hearing, physical, motor and general disabilities. Recommendations are based on the Web Content Accessibility Guidelines, or WCAG.  Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/). ♿️
