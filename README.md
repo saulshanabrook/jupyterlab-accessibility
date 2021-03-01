@@ -24,7 +24,8 @@ We aim to support each other in having fun and learning to code through an appli
 
 ### 🌎 What is open source software?
 * Open source software is public, collaborative, free code anyone can use. 
-* Individuals work on code contributions "locally" on their own computers and can use platforms like Github to collaborate. Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worked on in the open on Github.
+* Individuals work on code contributions "locally" on their own computers and can use platforms like Github to collaborate.
+* Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worked on in the open on Github.
 
 ## 🚀 Project Jupyter 
 
