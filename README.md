@@ -12,17 +12,18 @@ What is Jupyter?
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically but groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
 
 What is Jupyter Notebooks?
-* Jupyter noteboooks allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
-* Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results.
 * Jupyter notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
+* Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results.
+* Jupyter noteboooks allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
 
 What is Jupyter Lab?
-Jupyter lab is behind the scenes of Jupyter notebooks. Jupyter lab is software that lets you edit how Jupyter notebooks works right in your browser on a website.
+* Jupyter lab is behind the scenes of Jupyter notebooks. Jupyter lab is software that lets you edit how Jupyter notebooks works right in your browser on a website.
 
 So what are we doing?
-We will be 
-
-This is a place to help people learn how to code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. WCAG 
+* We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. This is based on the Web Content Accessibility Guidelines, or WCAG. This includes:
+** visual impairment like low vision, blindness, or color blindness
+** deaf or hard of hearing
+** 
 
 ## Schedule
 
