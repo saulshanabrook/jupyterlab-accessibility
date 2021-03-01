@@ -1,21 +1,21 @@
 # 🌱 Welcome
 
-We aim to support each other in having fun and learning code through an applied project. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!). 🤑  
+We aim to support each other in having fun and learning code through an applied project. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑 Many of us  
 
 ## 🤓 Basic Qs
 
-### What is a Github Repository?
-This is a github repository (not suppository)!💩 Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches.🌳 Individuals workshop contributions "locally" on their own computers and use github to coordinate.  
+### 👀 What is a Github Repository?
+* GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. GitHub is built on Git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches.🌳 
+* This group is a GitHub Repository (not suppository)!💩 Repository or "repo" as they say in the biz is a collection of files and discussions. You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion! J
 
 ### 💕 What is open source software?
 * Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
-* Open source software is public, collaborative, free code anyone can use. Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worken on in the open on Github.
+* Open source software is public, collaborative, free code anyone can use. Individuals work on code contributions "locally" on their own computers and use Github to collaborate. Wikipedia is an example of open source, not only by sharing the information, but the code for the website is worken on in the open on Github.
 
 ### ✨ What is Jupyter?
-* Jupyter is open source software for data analysis that is worked on in the open on github.
-* It is also refered to as Project Jupyter, which is an umbrella for Jupyter Notebooks, JupyterLab, JupyterHub,
+* Jupyter is a non-profit open source software for data analysis that is worked on in the open on GitHub.
+* It is also refered to as Project Jupyter, which is an umbrella for Jupyter Notebooks, JupyterLab, JupyterHub.
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically by groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
-* Jupyter hub lab project nonprofit
 
 ### 📚 What are Jupyter Notebooks?
 * Jupyter Notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
