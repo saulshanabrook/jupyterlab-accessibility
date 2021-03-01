@@ -1,8 +1,10 @@
 # JupyterLab Accessibility
 
-Welcome to this Github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, but you can merge the changes together from different branches. Programmer developer coder  
+We aim to support each other in applied learning working on real projects to make Jupyter lab better. 
 
-We aim to support each other in applied learning working on real projects to make Jupyter lab better. What is Jupyter? 
+Welcome to this Github repository (not suppository) ! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. Github is built on git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches. People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).  
+
+What is Jupyter? 
 * Jupyter is a software which is collection of instructions for the computer, unlike hardware such as a computer mouse..
 * Jupyter is open source software - public, collaborative, free code anyone can use.
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically but groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
