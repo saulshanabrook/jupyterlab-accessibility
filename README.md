@@ -12,18 +12,18 @@ What is Jupyter?
 * Jupyter is a community of people who work together to improve the software. It doesn't belong to any one company, and is controlled democratically but groups of interested contributors like you! Also IBM, Amazon, Apple, Quansight, universities, etc.
 
 What is Jupyter Notebooks?
-* Jupyter notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
-* Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results.
-* Jupyter noteboooks allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
+* Jupyter Notebooks are used by students, teachers, researchers, statisticians, scientists, and anyone who needs to use programming to analyze data.
+* Jupyter Notebooks is an interactive feature that lets you mix narrative, code, and results.
+* Jupyter Noteboooks allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
 
-What is Jupyter Lab?
-* Jupyter lab is behind the scenes of Jupyter notebooks. Jupyter lab is software that lets you edit how Jupyter notebooks works right in your browser on a website.
+What is JupyterLab?
+* JupyterLab is for writing Jupyter Notebooks. JupyterLab is a software that lets you edit Jupyter Notebooks right in your browser on a website. So, Jupyter Notebooks is like images while JupyterLab is like photoshop.
 
-So what are we doing?
-* We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. This is based on the Web Content Accessibility Guidelines, or WCAG. This includes:
-** visual impairment like low vision, blindness, or color blindness
-** deaf or hard of hearing
-** 
+Where do we come in?
+* We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities. JupterLab hosts biweekly developer meetings to work on accessibility, and on the off week there is a beginner-friendly meeting, and we're welcome to attend both. Additionally, we will plan our own internal meetings to support each other. 
+
+What is accessibility?
+This is based on the Web Content Accessibility Guidelines, or WCAG. This includes visual impairment like low vision, blindness, or color blindness, or deaf/hard of hearing. Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/).
 
 ## Schedule
 
@@ -31,7 +31,7 @@ Upcoming:
 * Tuesday 3/2 5:30 PM EST internal meeting [notes](https://github.com/saulshanabrook/jupyterlab-accessibility/discussions/8)
     *   Homework: set up your computer for development  and/or sign up for [Github Codespaces](https://github.com/features/codespaces) (check notes for details)
 * Wednesday 3/3 1:15 EST intro community call
-    *   Homework: look at https://github.com/jupyterlab/jupyterlab/pull/9399
+    *   Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
 
 Previous meetings:
 *   Wednesday 2/24 community call [notes](https://github.com/jupyterlab/team-compass/issues/98#issuecomment-786314705)
