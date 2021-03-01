@@ -5,8 +5,10 @@ We aim to support each other in having fun and learning code through an applied 
 ## 🤓 Basic Qs
 
 ### 👀 What is a Github Repository?
-* GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. GitHub is built on Git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches.🌳 
-* This group is a GitHub Repository (not suppository)!💩 Repository or "repo" as they say in the biz is a collection of files and discussions. You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion! J
+* GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. 
+* GitHub is built on Git which is a software for tracking changes. Everyone can independently work on their own copy of the code, and merge the changes together from different branches.🌳 
+* This group is a GitHub Repository (not suppository)!💩 Repository or "repo" as they say in the biz is a collection of files and discussions. 
+* You can click "watch" to get email notificiations for this group's repo, and feel free to post in the discussion!
 
 ### 💕 What is open source software?
 * Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
