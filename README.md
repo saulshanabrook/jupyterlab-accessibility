@@ -2,12 +2,12 @@
 
 We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the JupyterLab community is doing to make it more accessible for users with disabilities.
 
-## 🤓 Basics
+## 🤓 Started from the bottom
 
-### 👀 What is coding?
-* Software is a collection of instructions for the computer, unlike hardware such as a computer mouse.
+### 0️⃣1️⃣ What is coding?
+* Coding is writing software which is a collection of instructions for the computer. Hardware is the physical components like a computer mouse or the CPU (central processing unit) which is the electronic circuitry that executes the instructions.
+* These instructions can be written in many different "languages." Computer hardware itself, like your CPU, understands only very simple instructions, like adding numbers, and saving and loading information. To make it easier to talk to your computer, people have invented languages, which let you write a "higher level", i.e. more natural sounding description of what you want the computer to do. The language software turns that into the basic instructions that the computer hardware can understand.
 * People who talk to computers go by many different names. From most casual to "impressive on a resume" you can say: coder, programmer, software developer, software engineer, software architect (those guys make the big bucks!).🤑  
-* languages and binary 
 
 ### 🌳 What is Github?
 * GitHub is like google drive + soundcloud + facebook for coders, a place to store code, post, share and discuss. 
@@ -33,7 +33,7 @@ We aim to support each other in having fun and learning to code through an appli
 * Jupyter Notebooks is an interactive feature that lets you mix narrative, code, and results.
 * Jupyter Noteboooks allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *Ju*lia, *Pyt*hon, *R*
 
-### 👾 What is JupyterLab?
+### ⚗ What is JupyterLab?
 * JupyterLab is for writing Jupyter Notebooks. JupyterLab is a software that lets you edit Jupyter Notebooks right in your browser on a website. So, Jupyter Notebooks is like images while JupyterLab is like photoshop.
 * JupyterLab is mostly written in JavaScript and some python but not everyone who works on it is a programmer. There are many ways to contribute that don't involve writing code such as design, giving feedback, project management, engaging with the community, and running events. 
 
