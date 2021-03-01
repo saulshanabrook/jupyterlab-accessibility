@@ -30,23 +30,23 @@ Where do we come in?
 What is accessibility?
 * This is based on the Web Content Accessibility Guidelines, or WCAG. This includes visual impairment like low vision, blindness, or color blindness, or deaf/hard of hearing. Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/).
 
-## Schedule
+## Meetings
 
-JupterLab hosts biweekly community meetings to work on accessibility Wednesdays 1:15pm EST. On the off week there is a beginner-friendly meeting, and we're welcome to attend both. Additionally, we will plan our own internal meetings to support each other. 
+JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST, alternating between JupyterLab Accessibility Quickstart (for newcomers!) and an all community meeting for everyone. Additionally, we will plan our own internal meetings to support each other. 
 
 Upcoming:
 * Tuesday 3/2 5:30 PM EST internal meeting [notes](https://github.com/saulshanabrook/jupyterlab-accessibility/discussions/8)
     *   Homework: set up your computer for development  and/or sign up for [Github Codespaces](https://github.com/features/codespaces) (check notes for details)
-* Wednesday 3/3 1:15 EST intro community call
+* Wednesday 3/3 1:15 EST JupyterLab Accessibility Quickstart (for newcomers!)
     *   Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
 
 Previous meetings:
-*   Wednesday 2/24 community call [notes](https://github.com/jupyterlab/team-compass/issues/98#issuecomment-786314705)
+*   Wednesday 2/24 JupyterLab accessibility meeting [notes](https://github.com/jupyterlab/team-compass/issues/98#issuecomment-786314705)
 *   Tuesday 2/23 internal meeting [note](https://github.com/saulshanabrook/jupyterlab-accessibility/discussions/1)
 
 ## Important Links
 
-*   [Jupyter meeting calendar](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings)
+*   [Jupyter meeting calendar](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings) This is PST so +3 for EST
 *   [Jupyter Zoom](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
 *   [JupyterLab Accessibility Meeting notes](https://github.com/jupyterlab/team-compass/issues/98)
 *   [JupyterLab Accessibility issues](https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3Atag%3AAccessibility)
