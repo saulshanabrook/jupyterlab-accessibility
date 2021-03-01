@@ -2,6 +2,8 @@
 
 We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the JupyterLab community is doing to make it more accessible for users with disabilities.
 
+TODO: add why document 
+
 ## 🎵 Started from the bottom
 
 ### 👶 What is software vs hardware?
