@@ -27,8 +27,9 @@ This is a github repository (not suppository)!💩 Repository or "repo" as they 
 ### 🤔 Where do we come in?
 * We will be learning code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities.
 
-### ♿️ What is accessibility? 
-* This is based on the Web Content Accessibility Guidelines, or WCAG. This includes visual impairment like low vision, blindness, or color blindness, or deaf/hard of hearing. Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/).
+### 🔥 What is accessibility? 
+* Accessibility is about designing for users with diverse needs. This includes visual (low vision, blindness, or color blindness), deaf/hard of hearing, physical, motor and general disabilities. Recommendations are based on the Web Content Accessibility Guidelines, or WCAG.  Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/). ♿️
+* We also care about lowering the barrier to entry to become involved in open source, so that these important projects can better represent the diversity of our world.
 
 ## 🌎 Meetings
 
