@@ -2,10 +2,12 @@
 
 Welcome to this Github repository (not suppository)! Repository or "repo" as they say in the biz is a collection of files and discussions. Github is like google drive + soundcloud + facebook for coders. 
 
-We are learning to code through applied learning trying to make Jupyter Lab more accesible.  Software as in microsoft word not hardware like a computer mouse... Jupyter is a platform with multiple features including:
-* Jupyter is open source software - open source means public, collaborative, free code you can use.
-* you can code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *ju*lia, *pyt*hon, *R*
-* Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results. For example:
+We aim to support each other in applied learning working on real projects to make Jupyter lab better. What is Jupyter? 
+* Jupyter is a software 
+* Jupyter is open source - public, collaborative, free code you can use.
+* Jupyter allows you to code across different programming languages. Actually, the name Jupyter is a combo of 3 languages, *ju*lia, *pyt*hon, *R*
+* Jupyter notebooks is an interactive feature that lets you mix narrative, code, and results.
+* Jupyter lab refers to 
 
 
 This is a place to help people learn how to code by participating in the work the [JupyterLab](https://github.com/jupyterlab/jupyterlab) community is doing to make it more accessible for users with disabilities, including:
