@@ -48,11 +48,25 @@
 
 ## Quiz
 
-1. What does the Central Processing Unit (CPU) do? 💻
+<details>
+  <summary>What does the Central Processing Unit (CPU) do? 💻</summary>
+  
+  CPU is the electronic circuitry of computer hardware that executes software instructions.
+  
+  </details>
 
-2. What 3 programming languages make up the name Jupyter? Hint: Ju- Pyt- R
+<details>
+  <summary>  What 3 programming languages make up the name Jupyter? </summary>
+  
+  <details>
+  <summary> Hint: Ju- Pyt- R </summary>
+  Julia, Python, R
 
-3. What is open source software?
+  </details>
+
+  </details>
+
+What is open source software?
 
 4. What software for tracking changes is GitHub built on? 
 
@@ -62,9 +76,10 @@
 
 7. Do you need to know how to code to contribute to JupyterLab or use Github? 
 
-<details><summary>ANSWERS</summary>
-<p>
+<details>
+  <summary>ANSWER</summary>
 
+  
 1. CPU is the electronic circuitry of computer hardware that executes software instructions.
 2. Julia, Python, R
 3. Public, collaborative, free code anyone can use
@@ -73,9 +88,4 @@
 6. Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project. 
 7. No 😜
 
-```python
-print("hello world!")
-```
-
-</p>
 </details>
