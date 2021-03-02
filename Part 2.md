@@ -1,6 +1,6 @@
 ## Quiz
 
-1. What is the electronic circuitry of computer hardware that executes software instructions called? Hint: CPU
+1. What is the electronic circuitry of computer hardware that executes software instructions called? Hint: CPU 💻
 
 2. What 3 programming languages make up the name Jupyter? Hint: Ju- Pyt- R
 
@@ -8,11 +8,11 @@
 
 4. What software for tracking changes is GitHub built on? 
 
-5. What are Project Jupyter, Jupyter Notebooks and JupyterLab and what is the relationship between them?
+5. What are ☂️ Project Jupyter, 📚 Jupyter Notebooks and ⚗JupyterLab and what is the relationship between them?
 
-6. What does accessibility mean in the context of JupyterLab?
+6. What does accessibility mean in the context of JupyterLab? 🚀
 
-7. Do you need to know how to code to contribute to JupyterLab or use Github?
+7. Do you need to know how to code to contribute to JupyterLab or use Github? 
 
 <details><summary>ANSWERS</summary>
 <p>
