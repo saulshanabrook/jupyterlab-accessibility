@@ -1,2 +1,6 @@
 - file: README
 - file: FAQ
+- file: meetings
+  sections:
+    - file: "meetings/3_02_2021"
+    - file: "meetings/2_23_2021"
