@@ -1,7 +1,8 @@
 # 🌱 Welcome
 
 We aim to support each other in having fun and learning to code through an applied project. We will be learning code by participating in the work the JupyterLab community is doing to make it more accessible for users with disabilities.
-*  this document should be a great starting point for anyone interested in learning to edit code. No experience required.
+*  this document will hopefully be a great guide for people interested in learning to edit and write code.
+*  through "pull requests" each of us will be able to update, edit, and propose changes to this document 
 
 ## 🎵 Started from the bottom
 
