@@ -12,6 +12,8 @@
 
 6. What does accessibility mean in the context of JupyterLab?
 
+7. Do you need to know how to code to contribute to JupyterLab or use Github?
+
 <details><summary>ANSWERS</summary>
 <p>
 
@@ -21,6 +23,7 @@
 4. Git
 5. Jupyter is the umbrella project, and Jupyter Notebooks is a feature used for data analysis. JupyterLab edits the code for Jupyter Notebooks right in your web browser. 
 6. Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project 
+7. No 😜
 
 ```python
 print("hello world!")
