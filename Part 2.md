@@ -1,6 +1,6 @@
 ## Quiz
 
-1. What does Central Processing Unit (CPU) do?
+1. What does the Central Processing Unit (CPU) do? 💻
 
 2. What 3 programming languages make up the name Jupyter? Hint: Ju- Pyt- R
 
