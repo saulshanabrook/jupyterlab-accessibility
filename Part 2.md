@@ -8,9 +8,9 @@
 
 4. What software for tracking changes is GitHub built on? 
 
-5. What are ☂️ Project Jupyter, 📚 Jupyter Notebooks and ⚗JupyterLab and what is the relationship between them?
+5. What are Project Jupyter, Jupyter Notebooks and JupyterLab and what is the relationship between them? 🚀
 
-6. What does accessibility mean in the context of JupyterLab? 🚀
+6. What does accessibility mean in the context of JupyterLab?
 
 7. Do you need to know how to code to contribute to JupyterLab or use Github? 
 
