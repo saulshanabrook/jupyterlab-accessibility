@@ -71,18 +71,22 @@
   Git
 </details>
 
-5. What are Project Jupyter, Jupyter Notebooks and JupyterLab and what is the relationship between them? 🚀
-
-6. What does accessibility mean in the context of JupyterLab?
-
-7. Do you need to know how to code to contribute to JupyterLab or use Github? 
+<details>
+  <summary>What is the relationship between Project Jupyter and Jupyter Notebooks? </summary>
+  Jupyter is the umbrella project, and Jupyter Notebooks is a feature used for data analysis, with an interactive notebook mixing narrative, code, and results. 
+</details>
 
 <details>
-  <summary>ANSWER</summary>
+  <summary>What is JupyterLab? 🚀 </summary>
+  JupyterLab edits the code for Jupyter Notebooks right in your web browser.
+</details>
 
-  
-5. Jupyter is the umbrella project, and Jupyter Notebooks is a feature used for data analysis. JupyterLab edits the code for Jupyter Notebooks right in your web browser. 
-6. Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project. 
-7. No 😜
+<details>
+  <summary>What does accessibility mean in the context of JupyterLab?</summary>
+Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project. 
+</details>
 
+<details>
+  <summary>Do you need to know how to code to contribute to JupyterLab or use Github? </summary>
+  No 😜
 </details>
