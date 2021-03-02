@@ -8,6 +8,8 @@ We can contribute to JupyterLab Accessibility in ways that don't involve code. O
 
 FAQ 
 Hopefully any confusion from this intro will be clarified in the following questions. First we'll start with some coding basics, ways of collaborating, Project Jupyter, accessibility, and meetings to plug into. 🙂 
+# [Primer](./intro.md)
+
 
 ## 🚀 JupyterLab Accessibility
 
