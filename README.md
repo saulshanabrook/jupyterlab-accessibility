@@ -10,3 +10,5 @@ We can also contribute to JupyterLab Accessibility in ways that don't involve co
 Introduction to coding, ways of collaborating, Project Jupyter and accessibility.
 
 ## [😎 Meetings](./meetings.md)
+
+hi
