@@ -1,17 +1,27 @@
 ## Quiz
 
-1. What is the electronic circuitry of computer hardware that executes software instructions?
-<details><summary>Hint</summary>
-<p> CPU
+1. What is the electronic circuitry of computer hardware that executes software instructions called? Hint: CPU
 
-2. Which of these is a programming language? Rebecca, Leah, Julia, Cassandra 
+2. What 3 programming languages make up the name Jupyter? Hint: Ju- Pyt- R
+
+3. What is open source software?
+
+4. What software for tracking changes is GitHub built on? 
+
+5. What are Project Jupyter, Jupyter Notebooks and JupyterLab and what is the relationship between them?
+
+6. JupyterLab Accessibility 
 
 <details><summary>ANSWERS</summary>
 <p>
 
 1. Central Processing Unit
-2. Julia - the Ju in Jupyter! (and Python and R)
-3. 
+2. Julia, Python, R
+3. Public, collaborative, free code anyone can use
+4. Git
+5. Jupyter is the umbrella project, and Jupyter Notebooks is a feature used for data analysis. JupyterLab edits the code for Jupyter Notebooks right in your web browser. 
+6. 
+
 ```python
 print("hello world!")
 ```
