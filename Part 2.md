@@ -10,7 +10,7 @@
 
 5. What are Project Jupyter, Jupyter Notebooks and JupyterLab and what is the relationship between them?
 
-6. JupyterLab Accessibility 
+6. What does accessibility mean in the context of JupyterLab?
 
 <details><summary>ANSWERS</summary>
 <p>
@@ -20,7 +20,7 @@
 3. Public, collaborative, free code anyone can use
 4. Git
 5. Jupyter is the umbrella project, and Jupyter Notebooks is a feature used for data analysis. JupyterLab edits the code for Jupyter Notebooks right in your web browser. 
-6. 
+6. Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project 
 
 ```python
 print("hello world!")
