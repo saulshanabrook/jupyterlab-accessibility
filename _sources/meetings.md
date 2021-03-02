@@ -5,14 +5,14 @@ JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST! These meeti
 *   [Jupyter meeting calendar](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings) This is PST so +3 for EST
 *   [Jupyter Zoom](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
    
-# 📝 Previous JupyterLab meeting notes:
+### 📝 Previous JupyterLab meeting notes:
 *   Wednesday 2/24 JupyterLab accessibility meeting [notes](https://github.com/jupyterlab/team-compass/issues/98#issuecomment-786314705)
 *   All past [JupyterLab Accessibility Meeting notes](https://github.com/jupyterlab/team-compass/issues/98)
 
 ## Internal Meetings 
 Additionally, we will host our own internal meetings to support each other on zoom. Saul will send out a google calendar event. 
 
-# 📝 Previous Internal meeting notes:
+### 📝 Previous Internal meeting notes:
 I*   Tuesday 2/23 internal meeting [notes](./meetings/2_23_2021.md)
 
 # 📅 Upcoming:
