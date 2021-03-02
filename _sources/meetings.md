@@ -1,5 +1,10 @@
 # 😎 Meetings
 
+## 📅 Upcoming:
+* Tuesday 3/2 5:30 PM EST internal meeting [notes](./meetings/3_02_2021.md)
+* Wednesday 3/3 1:15 EST JupyterLab Accessibility Quickstart (for newcomers!)
+    *   Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
+
 ## JupyterLab 
 JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST! These meetings alternate between JupyterLab Accessibility Quickstart (for newcomers!) and an all community meeting for everyone.
 *   [Jupyter meeting calendar](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings) This is PST so +3 for EST
@@ -13,9 +18,4 @@ JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST! These meeti
 Additionally, we will host our own internal meetings to support each other on zoom. Saul will send out a google calendar event. 
 
 ### 📝 Previous Internal meeting notes:
-I*   Tuesday 2/23 internal meeting [notes](./meetings/2_23_2021.md)
-
-# 📅 Upcoming:
-* Tuesday 3/2 5:30 PM EST internal meeting [notes](./meetings/3_02_2021.md)
-* Wednesday 3/3 1:15 EST JupyterLab Accessibility Quickstart (for newcomers!)
-    *   Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
+*   Tuesday 2/23 internal meeting [notes](./meetings/2_23_2021.md)
