@@ -8,19 +8,7 @@ We can contribute to JupyterLab Accessibility in ways that don't involve code. O
 
 Accessibility is about designing for users with diverse needs. This includes visual (low vision, blindness, or color blindness), deaf/hard of hearing, physical, motor and general disabilities. Recommendations are based on the Web Content Accessibility Guidelines, or WCAG.  Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/). ♿️
 
-## 😎 Meetings
-
-JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST, alternating between JupyterLab Accessibility Quickstart (for newcomers!) and an all community meeting for everyone. Additionally, we will plan our own internal meetings to support each other. 
-
-### 📅 Upcoming:
-* Tuesday 3/2 5:30 PM EST internal meeting [notes](https://github.com/saulshanabrook/jupyterlab-accessibility/discussions/8)
-    *   Homework: set up your computer for development  and/or sign up for [Github Codespaces](https://github.com/features/codespaces) (check notes for details)
-* Wednesday 3/3 1:15 EST JupyterLab Accessibility Quickstart (for newcomers!)
-    *   Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
-
-### 📝 Previous meeting notes:
-*   Wednesday 2/24 JupyterLab accessibility meeting [notes](https://github.com/jupyterlab/team-compass/issues/98#issuecomment-786314705)
-*   Tuesday 2/23 internal meeting [notes](https://github.com/saulshanabrook/jupyterlab-accessibility/discussions/1)
+## [😎 Meetings](./meetings)
 
 ## 🔗 Important Links
 

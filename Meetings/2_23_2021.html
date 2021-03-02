@@ -1,0 +1,296 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2/23/2021 Meeting &#8212; JupyterLab Accessibility</title>
+    
+  <link rel="stylesheet" href="../_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.37f24b989f4638ff9c27c22dc7559d4f.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.d3f166471bb80abb5163.js">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.7d483ff0a819d6edff12ce0b1ead3928.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../index.html">
+  
+  
+  <h1 class="site-logo" id="site-title">JupyterLab Accessibility</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../README.html">
+   🌱 Welcome
+  </a>
+ </li>
+</ul>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../FAQ.html">
+   FAQ
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/Meetings/2_23_2021.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/saulshanabrook/jupyterlab-accessibility"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/saulshanabrook/jupyterlab-accessibility/issues/new?title=Issue%20on%20page%20%2FMeetings/2_23_2021.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        <a class="edit-button" href="https://github.com/saulshanabrook/jupyterlab-accessibility/edit/main/Meetings/2_23_2021.md"><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Edit this page"><i class="fas fa-pencil-alt"></i>suggest edit</button></a>
+    </div>
+</div>
+
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+            <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                    data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                    title="Fullscreen mode"><i
+                        class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="meeting">
+<h1>2/23/2021 Meeting<a class="headerlink" href="#meeting" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><p><strong>Intros</strong></p>
+<ul>
+<li><p>introduce myself, jupyter history, why I am excited for this. Influence world, community needs you, have a say in processes.</p></li>
+<li><p>Goal of this group is to involve you,</p></li>
+<li><p>Introduce yourself, any history you wanna give, why you are here.</p></li>
+</ul>
+</li>
+<li><p><strong>What is coding</strong></p>
+<ul>
+<li><p>show off jupyterlab, commune research <a class="reference external" href="https://mybinder.org/v2/gh/saulshanabrook/compound/master?urlpath=lab/tree/Untitled.ipynb">https://mybinder.org/v2/gh/saulshanabrook/compound/master?urlpath=lab/tree/Untitled.ipynb</a></p></li>
+<li><p><a class="reference external" href="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/lab3?urlpath=lab/tree/demo/Lorenz.ipynb">https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/lab3?urlpath=lab/tree/demo/Lorenz.ipynb</a></p></li>
+<li><p>BREAK OUT  have people split into breakout rooms and try it out</p></li>
+<li><p>Chat about what we found. demo other jupyterlab UIs like colab: <a class="reference external" href="https://drive.google.com/drive/u/0/my-drive">https://drive.google.com/drive/u/0/my-drive</a></p></li>
+</ul>
+</li>
+<li><p><strong>what is jupyterlab community</strong></p>
+<ul>
+<li><p>Present github, social network for coders: <a class="reference external" href="https://github.com/jupyterlab/jupyterlab">https://github.com/jupyterlab/jupyterlab</a></p></li>
+<li><p>show issues page: <a class="reference external" href="https://github.com/jupyterlab/jupyterlab/issues">https://github.com/jupyterlab/jupyterlab/issues</a></p></li>
+<li><p>multi stakeholder: <a class="reference external" href="https://github.com/jupyterlab/jupyterlab/graphs/contributors">https://github.com/jupyterlab/jupyterlab/graphs/contributors</a></p></li>
+<li><p>Accessibility… video <a class="reference external" href="https://www.a11yproject.com/#meet-the-community">https://www.a11yproject.com/#meet-the-community</a></p></li>
+<li><p><a class="reference external" href="https://github.com/jupyterlab/team-compass/issues/98">https://github.com/jupyterlab/team-compass/issues/98</a></p></li>
+<li><p><a class="reference external" href="https://github.com/orgs/jupyterlab/projects/1">https://github.com/orgs/jupyterlab/projects/1</a></p></li>
+<li><p><a class="reference external" href="https://github.com/jupyterlab/jupyterlab/issues/9399#issue-751091416">https://github.com/jupyterlab/jupyterlab/issues/9399#issue-751091416</a></p></li>
+<li><p>Best! <a class="reference external" href="https://github.com/jupyterlab/jupyterlab/issues/9399#issuecomment-740524422">https://github.com/jupyterlab/jupyterlab/issues/9399#issuecomment-740524422</a></p></li>
+<li><p>Contributors: <a class="reference external" href="https://github.com/jupyterlab/jupyterlab/graphs/contributors">https://github.com/jupyterlab/jupyterlab/graphs/contributors</a></p></li>
+<li><p>BREAK OUT: look through issue, other accessibility issues, any questions about technical things, as well as process, tone, etc.</p></li>
+</ul>
+</li>
+<li><p><strong>how to edit jupyterlab</strong></p>
+<ul>
+<li><p><a class="reference external" href="https://gitpod.io/#https://github.com/saulshanabrook/jupyterlab">Link</a></p></li>
+</ul>
+</li>
+<li><p><strong>next steps</strong></p>
+<ul>
+<li><p>meeting tomorrow <a class="reference external" href="https://jupyter.readthedocs.io/en/latest/community/content-community.html">https://jupyter.readthedocs.io/en/latest/community/content-community.html</a></p>
+<ul>
+<li><p>we can ask are there good issues to get started with?</p></li>
+</ul>
+</li>
+<li><p>Slack for the group?</p></li>
+<li></li>
+</ul>
+</li>
+<li><p><strong>naming session</strong></p></li>
+</ul>
+<hr class="docutils" />
+<p>frustrating…</p>
+<p>peer coding.</p>
+<p>we all rely on code</p>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./Meetings"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Many people<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../_static/js/index.d3f166471bb80abb5163.js"></script>
+
+
+    
+  </body>
+</html>
