@@ -46,6 +46,13 @@
 * JupyterLab is for writing Jupyter Notebooks. JupyterLab is a software that lets you edit Jupyter Notebooks right in your browser on a website. So, Jupyter Notebooks is like images while JupyterLab is like photoshop.
 * JupyterLab is mostly written in JavaScript and some python but not everyone who works on it is a programmer. There are many ways to contribute that don't involve writing code such as design, giving feedback, project management, engaging with the community, and running events. 
 
+### 🔥 What is accessibility in the context of JupyterLab?
+
+Accessibility is about designing for users with diverse needs. This includes visual (low vision, blindness, or color blindness), deaf/hard of hearing, physical, motor and general disabilities. Recommendations are based on the Web Content Accessibility Guidelines, or WCAG.  
+* Check out this [website](https://www.a11yproject.com/) to learn more and watch this 16 minute [webinar](https://mawconsultingllc.com/webinars/webinar-intro-to-accessibility/). ♿️
+* Overview of all the JupyterLab accessibility [issues](https://github.com/jupyterlab/jupyterlab/issues/9399)
+* All JupyterLab posts tagged as [accessibility](https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3Atag%3AAccessibility)
+
 ## Quiz
 
 <details>
