@@ -1,3 +1,5 @@
+# FAQ
+
 ## 🎵 Started from the bottom
 
 ### 👶 What is software vs hardware?
