@@ -1,3 +1,10 @@
-# Book settings
 title: JupyterLab Accessibility
 author: Many people
+
+repository:
+  url: https://github.com/saulshanabrook/jupyterlab-accessibility
+  branch: main
+html:
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: true
