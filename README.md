@@ -16,4 +16,4 @@ Accessibility is about designing for users with diverse needs. This includes vis
 * Overview of all the JupyterLab accessibility [issues](https://github.com/jupyterlab/jupyterlab/issues/9399)
 * All JupyterLab posts tagged as [accessibility](https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3Atag%3AAccessibility)
 
-## [😎 Meetings](./meetings.md)
+# [😎 Meetings](./meetings.md)
