@@ -5,7 +5,7 @@
 * Wednesday 3/3 1:15 EST JupyterLab Accessibility Quickstart (for newcomers!)
     *   Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
 
-## JupyterLab 
+## 🚀 JupyterLab 
 JupterLab hosts weekly accessibility meetings Wednesdays 1:15pm EST! These meetings alternate between JupyterLab Accessibility Quickstart (for newcomers!) and an all community meeting for everyone.
 *   [Jupyter meeting calendar](https://jupyter.readthedocs.io/en/latest/community/content-community.html#jupyter-community-meetings) This is PST so +3 for EST
 *   [Jupyter Zoom](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
