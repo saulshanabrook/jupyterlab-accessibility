@@ -1,6 +1,6 @@
 ## Quiz
 
-1. What is the electronic circuitry of computer hardware that executes software instructions called? Hint: CPU 💻
+1. What does Central Processing Unit (CPU) do?
 
 2. What 3 programming languages make up the name Jupyter? Hint: Ju- Pyt- R
 
@@ -17,7 +17,7 @@
 <details><summary>ANSWERS</summary>
 <p>
 
-1. Central Processing Unit
+1. CPU is the electronic circuitry of computer hardware that executes software instructions.
 2. Julia, Python, R
 3. Public, collaborative, free code anyone can use
 4. Git
