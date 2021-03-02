@@ -1,4 +1,4 @@
-# FAQ
+# Intro
 
 ## 🎵 Started from the bottom
 
