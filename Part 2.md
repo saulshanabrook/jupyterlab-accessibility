@@ -22,7 +22,7 @@
 3. Public, collaborative, free code anyone can use
 4. Git
 5. Jupyter is the umbrella project, and Jupyter Notebooks is a feature used for data analysis. JupyterLab edits the code for Jupyter Notebooks right in your web browser. 
-6. Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project 
+6. Designing for users with disabilities. Also welcoming and supporting newcomers who may not feel like they fit in to work on an open source project. 
 7. No 😜
 
 ```python
@@ -35,10 +35,9 @@ print("hello world!")
 
 How to use GitHub tutorial no coding necessary 
 
-
-
 Let's get into some more terms that will help us! 
 
+GitPod
 
 Diagram of Jupyter pieces
 JupyterHub
