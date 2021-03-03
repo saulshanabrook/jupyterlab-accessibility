@@ -1,5 +1,5 @@
 - file: README
-- file: FAQ
+- file: intro
 - file: meetings
   sections:
     - file: "meetings/3_02_2021"
