@@ -1,13 +1,14 @@
 # Guide 2
 
 ## GitHub
-* Pull Request
+* Pull Request (PR)
 * GitHub Etiquette 
 * HelloWorld Guide
 * Layout of Projects
 
 ## Languages 
-* Markdown
+* Markdown 
+** Tip
 * HackMD
 * HTML
 * CSS
