@@ -8,7 +8,6 @@
 
 ## Languages 
 * Markdown 
-** Tip
 * HackMD
 * HTML
 * CSS
