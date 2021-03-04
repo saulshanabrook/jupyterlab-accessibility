@@ -6,8 +6,8 @@ We aim to create a suportive environment where we can learn and hang out with fr
 
 We can also contribute to JupyterLab Accessibility in ways that don't involve code. Our presence helps make a pathway to translate making JupyterLab more accessible to "non-coders." Hopefully in the process we will learn some code, which could even turn into jobs. However this isn't a coding bootcamp so definitely feel free to supplement with online courses like Codeacademy. 
 
-## [🤓 Guides]
-[Guide 1](./Guide 1.md) Introduction to coding, ways of collaborating, Project Jupyter and accessibility.
-Guide 2
+## 🤓 Guides
+* [Guide 1](Guide1.md) Introduction to coding, ways of collaborating, Project Jupyter and accessibility.
+* Guide 2
 
 ## [😎 Meetings](./meetings.md)
