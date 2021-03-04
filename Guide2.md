@@ -1,29 +1,25 @@
 # Guide 2
 
 ## GitHub
-Pull Request
-GitHub Etiquette 
-HelloWorld Guide
-Layout of Projects
+* Pull Request
+* GitHub Etiquette 
+* HelloWorld Guide
+* Layout of Projects
 
 ## Languages 
-Markdown
-HackMD
-HTML
-CSS
-JavaScript
+* Markdown
+* HackMD
+* HTML
+* CSS
+* JavaScript
 
 ## Accessibility 
-Alt text
-Decorative
-Aria
-Screen Reader 
+* Alt text
+* Decorative
+* Aria
+* Screen Reader 
 
 ## To be covered:
-GitPod
-
-Diagram of Jupyter pieces
-JupyterHub
-JupyterBook
-
-Lumino
+* GitPod
+* Diagram of Jupyter pieces: JupyterHub, JupyterBook
+* Lumino
