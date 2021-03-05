@@ -7,7 +7,7 @@
 * Layout of Projects
 
 ## Languages 
-* Markdown 
+* Markdown file ends in .md
 * HackMD
 * HTML
 * CSS
@@ -22,4 +22,5 @@
 ## To be covered:
 * GitPod
 * Diagram of Jupyter pieces: JupyterHub, JupyterBook
+* MyBinder
 * Lumino
