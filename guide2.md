@@ -1,8 +1,7 @@
 # Guide 2
 
 ## GitHub
-
-*   Pull Request (PR): A request of review and modification for a piece of code. To pull a branch into another branch.
+*   Pull Request (PR): A request to review and modify code. To pull a branch into another branch.
     * Pushing code is when you send it from your computer to Github.
 *   Pull Request Review: Anyone can review any pull request, to say whether they approve of it or not. Some projects require a core project person to review pull requests, before they are merged.
     * Q: Can you review something after it's been merged?
