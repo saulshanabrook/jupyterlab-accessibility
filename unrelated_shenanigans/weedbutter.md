@@ -1,5 +1,7 @@
-**Quinten's Killer Weed Butter**
+#Quinten's Killer Weed Butter
+
 *Ingredients:*
+
 * 1/2 to 1 ounce of high quality bud /or 3-4 ounces of shake
 * 2 sticks of organic unsalted butter (or coconut oil) *oil needs to be solid at lower temps
 
