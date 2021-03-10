@@ -2,7 +2,7 @@
 
 ## GitHub
 * Pull Request (PR) - request to review and modify code
-* GitHub Etiquette 
+* GitHub Etiquette - label with verbs
 * HelloWorld Guide
 * Layout of Projects
 
