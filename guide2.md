@@ -1,7 +1,7 @@
 # Guide 2
 
 ## GitHub
-* Pull Request (PR)
+* Pull Request (PR) - request to review and modify code
 * GitHub Etiquette 
 * HelloWorld Guide
 * Layout of Projects
