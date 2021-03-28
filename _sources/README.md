@@ -11,3 +11,8 @@ We can also contribute to JupyterLab Accessibility in ways that don't involve co
 * [Guide 2](guide2.md): How to use GitHub, programming languages, accessibility  
 
 ## [😎 Meetings](./meetings.md)
+
+## 😝 How To Manifest
+
+Compassion. Love. and LIGHT!
+* [Guide 3](https://www.youtube.com/watch?v=W40nVImJj5A) : Manifest!
