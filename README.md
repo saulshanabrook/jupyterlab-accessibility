@@ -16,3 +16,4 @@ We can also contribute to JupyterLab Accessibility in ways that don't involve co
 
 Compassion. Love. and LIGHT!
 * [Guide 3](https://www.youtube.com/watch?v=W40nVImJj5A) : Manifest!
+✨
