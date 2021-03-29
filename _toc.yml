@@ -1,9 +1,24 @@
 - file: README
-- file: guide1
-- file: guide2
-- file: meetings
-  sections:
+- part: 🤓 Guides
+  numbered: 1
+  chapters:
+  - file: guides/intro
+  - file: guides/markdown
+  - file: guides/weblanguages
+  - file: guides/github
+  - file: guides/jupyter
+  - file: guides/accessibility
+  - file: guides/gitpod
+  - file: guides/website 
+
+- part: 😎 Meetings
+  chapters:
+    - file: meetings
     - file: "meetings/3_09_2021"
     - file: "meetings/3_02_2021"
     - file: "meetings/2_23_2021"
-- file: unrelated_shenanigans/weedbutter
+
+- part: Unrelated Shenaigans
+  chapters:
+  - file: unrelated_shenanigans/weedbutter
+  - file: "unrelated_shenanigans/quick waste audit"
