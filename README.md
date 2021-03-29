@@ -12,4 +12,9 @@ Most of us have little to no background with coding, and may not see ourselves a
 
 Hopefully in the process we will learn some code, which could even turn into jobs. However this isn't a coding bootcamp so definitely feel free to supplement with online courses like codecademy.com, html.com or internetingishard.com.
 
+## [😎 Meetings](./meetings.md)
 
+## 😝 How To Manifest
+
+Compassion. Love. and LIGHT!
+* [Guide to Manifest](https://www.youtube.com/watch?v=W40nVImJj5A)

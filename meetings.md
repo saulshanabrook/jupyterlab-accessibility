@@ -17,6 +17,7 @@ We have two types of weekly meetings to help us check in:
 
 ### 📝 Previous meetings:
 
+- **JupyterLab Newcomers**: Wednesday 3/17 1:15 EST [notes issue](https://github.com/jupyter/accessibility/discussions/31)
 - **JupyterLab Newcomers**: Wednesday 3/3 1:15 EST [notes issues](https://github.com/jupyter/accessibility/issues/23)
   - Homework: look at this summary of all the [issues](https://github.com/jupyterlab/jupyterlab/pull/9399)
 - **Internal**: Tuesday 3/2 5:30 PM EST [notes](./meetings/3_02_2021.md)
