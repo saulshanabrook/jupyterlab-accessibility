@@ -1,4 +1,4 @@
-# 😎 Meetings
+# Overview
 
 We have two types of weekly meetings to help us check in:
 
